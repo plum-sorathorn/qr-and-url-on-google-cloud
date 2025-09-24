@@ -9,6 +9,9 @@ Functioanlly, it converts long URLs to both QR codes and short links that automa
 Visit the deployed site here:  
 **[https://qr.splum.org/](https://qr.splum.org/)**
 
+Backup link:
+**[https://qr-generator-and-url-shortener-880303141262.us-central1.run.app/](https://qr-generator-and-url-shortener-880303141262.us-central1.run.app/)**
+
 ## Features
 
 - Generate a QR codes from long URLs
